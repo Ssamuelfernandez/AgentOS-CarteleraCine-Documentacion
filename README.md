@@ -35,7 +35,7 @@ Con esta metodología hemos desarrollado una **cartelera de cine interactiva** (
 | Recurso | Descripción | Enlace |
 |---|---|---|
 | Documentación de Agent OS | Qué es, comandos, conceptos, instalación, ejemplo completo, ventajas e inconvenientes | [agent-os-doc.md](./agent-os-doc.md) |
-| Presentación | Diapositivas usadas en la exposición | _Pendiente de subir_ |
+| Presentación | Diapositivas usadas en la exposición | [Agent-OS-SDD-asistido-por-IA.html](./Agent-OS-SDD-asistido-por-IA.html) |
 | Código de la aplicación | Repositorio independiente con el código y su explicación | [AgentOS_Cartelera_Cine](https://github.com/Reysanx/AgentOS_Cartelera_Cine) |
 
 ## Documentación
@@ -52,7 +52,7 @@ La guía [`agent-os-doc.md`](./agent-os-doc.md) explica paso a paso:
 
 ## Presentación
 
-📊 _Pendiente de subir:_ `presentacion/` (enlace por añadir cuando esté terminada).
+📊 [Agent-OS-SDD-asistido-por-IA.html](./Agent-OS-SDD-asistido-por-IA.html): diapositivas usadas en la exposición.
 
 ## Ejecutar la aplicación
 
