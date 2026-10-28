@@ -64,8 +64,10 @@ Los pasos detallados están en el [README del repositorio de código](https://gi
 4. `npm run dev`
 
 ## Capturas de pantalla
-
-<img src="./imagenes/captura1.png" alt="Listado de películas" width="700">
+<p>
+  <img src="./imagenes/captura1.png" alt="Listado de películas" width="700">
+  <img src="./imagenes/captura2.png" alt="Listado de películas" width="700">
+</p>
 
 ## Bibliografía
 
