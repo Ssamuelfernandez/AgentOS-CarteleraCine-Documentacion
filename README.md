@@ -65,7 +65,7 @@ Los pasos detallados están en el [README del repositorio de código](https://gi
 
 ## Capturas de pantalla
 
-_Pendiente de añadir._
+<img src="./imagenes/captura1.png" alt="Listado de películas" width="700">
 
 ## Bibliografía
 
